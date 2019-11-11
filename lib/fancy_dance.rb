@@ -1,3 +1,5 @@
-class FancyDance 
+module FancyDance 
+  module InstanceMethods
+    
 
 end 

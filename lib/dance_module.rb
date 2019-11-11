@@ -1,4 +1,4 @@
-class Dance
+module Dance
 
 
 end 
